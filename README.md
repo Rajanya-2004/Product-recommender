@@ -27,11 +27,15 @@ Monitors
 Speakers
 
 Gaming Consoles
+
 Home Appliances
 
 Tech Stack
+
 Frontend: React.js, CSS
+
 Styling: Inline CSS (responsive grid layout, hover effects)
+
 AI Integration: integrate with Hugging Face API for real-time AI recommendations
 
 
