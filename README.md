@@ -2,6 +2,8 @@ Smart Product Recommender
 
 A React-based web app that recommends products intelligently based on user input. Users can type their preferences, like “affordable smartphones under $500”, and the app will display filtered product suggestions with images, prices, and categories—just like a mini e-commerce recommendation engine.
 
+Link - https://buyguide.netlify.app/
+
 Features
 
 AI-style Recommendations:  AI-powered suggestions based on keywords in user input.
